@@ -1,2 +1,2 @@
 new file2.txt
-add some test
+changed something and some test
